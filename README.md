@@ -79,7 +79,9 @@ Subject Adviser
 
 TABLE OF CONTENTS
  
+
 Chapter I. PLANNING STAGE
+
 1.0 Introduction………………………………………………………………….
 
 1.1 Objective of the Study…………………………………………………….
@@ -122,8 +124,11 @@ Chapter III. DEVELOPMENT
  
 CHAPTER I
 
+
+
 THE PROBLEM AND ITS BACKGROUND
 Introduction
+
 
 This application is primarily beneficial to commuters who seek a convenient, quick, and simple way to travel, aiding their daily activities. When it comes to public transportation that meets commuters' accessibility requirements, they select options that also keep them safe and secure. It has been discovered that an assortment of people present not only to commuters but also in the setting of modern technology can have significant effects on commuter measurements of their ability to travel and physical activity themselves, particularly if they are first-time individuals and first-time commuters as well as travelers, these characteristics can be found in each of the commuters and the setting of this mobile application.The efficacy or effectiveness of commuters' guide application is the main focus of this research. The application aspires to assist users, such as first-time commuters, in improving their capacity to practice their abilities. Student commuters face challenges and need solutions to make their daily rides less stressful and more comfortable, such as public transportation, more economical choices, and promotion of environmentally friendly transportation. It focuses on the effectiveness of the commuters' guide application which is essential for all commuters and first-timers. The application's performance is mainly measured by the reliability and constant observations on commuters' performance in travelling, particularly in daily life in a time of modern technologies.
  
