@@ -38,8 +38,7 @@ In Partial Fulfillment of the Requirements for the subject
 Mobile Development focusing on Android Development
  
  
-2024
-APPROVAL SHEET
+2024 APPROVAL SHEET
  
 
 This Android mobile application entitled “ROUTE WANDERS” were prepared and submitted by:
@@ -122,12 +121,15 @@ Chapter III. DEVELOPMENT
  
  
  
+
 CHAPTER I
 
 
 
 
+
 THE PROBLEM AND ITS BACKGROUND
+
 
 Introduction
 
