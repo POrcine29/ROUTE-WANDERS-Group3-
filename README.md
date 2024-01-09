@@ -66,7 +66,9 @@ TANAN, GRACIELA WINNETTE R.
  
  
 
-has been approved by the subject adviser as partial fulfillment of the requirements for the subject MOBILE DEVELOPMENT FOCUSING ON ANDROID DEVELOPMENT.
+has been approved by the subject adviser as partial fulfillment of the requirements for the subject 
+
+MOBILE DEVELOPMENT FOCUSING ON ANDROID DEVELOPMENT.
  
  
  
@@ -102,6 +104,7 @@ Chapter II. UI / UX DESIGN
             
               2.3 Mockups………………………………………………………………………
  
+
 Chapter III. DEVELOPMENT
 
 3.1 Mobile Architecture……………………………………………………….
@@ -224,11 +227,17 @@ DEVELOPMENT
 
 In this chapter, the development of the application is being tracked. The mobile architecture is elaborated, and further diagrams along with discussions on important source codes are presented.
  
+
 3.1 Mobile Architecture         
 
+
 User Interface we apply a clean and simple yet user-friendly UI design in our mobile application, with buttons, sliders, text fields, lists, and date fields to avoid unnecessary features and to be explicit in the language that they use on labels and in messages. Users are more relaxed and can do activities more quickly. While in Page Layout it needs to be organised by importance with elements properly ordered to grab attention, enable skimming, and ensure readability. So, we build a simple layout for greater comprehension of each user and to avoid disinterest when using and browsing around the app. It communicates location, activities, status modifications, or problems to users through various UI components, decreasing discomfort and providing essential next steps.The users can create an account to save the location, so that they can use it even if they don't have access to the internet. They can also have a location history where they can view the places that they went to. Also, if they're walking and driving using different types of transportation it can provide them direction and the miles depend on what they're doing or using. We offer a palette that is pleasant and appealing to users, Blue for a calm tone that eases the users emotions within the app and a palette of blue that represents simplicity, clarity, and efficiency for the app to draw users attention.
+
+
 3.2 Project Development
 - Coding Process
+
 3.3 Project Builds
 - Run every build discuss the progress
+
 3.4 Pre-Testing process - Set testing procedures
