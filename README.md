@@ -126,7 +126,9 @@ CHAPTER I
 
 
 
+
 THE PROBLEM AND ITS BACKGROUND
+
 Introduction
 
 
@@ -181,7 +183,8 @@ Name of Module(Features)
 
 ● Public Transportation - A government-sponsored system of trains, buses, and further transportation
  
- CHAPTER II
+ 
+ CHAPTER II
 UI/ UX DESIGN
 2.0 Information Architecture
  
