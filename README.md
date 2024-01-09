@@ -1,11 +1,8 @@
 ROUTE WANDERS
  
  
-An Android Mobile Application Project presented to the
-Faculty of Information Technology
-School of Arts, Science, and Technology
-The National Teachers College
-629 J. Nepomuceno St., Quiapo, Manila
+An Android Mobile Application Project presented to the Faculty of Information Technology School of Arts, Science, and Technology
+The National Teachers College 629 J. Nepomuceno St., Quiapo, Manila
  
  
 By
@@ -87,17 +84,23 @@ Introduction
 This application is primarily beneficial to commuters who seek a convenient, quick, and simple way to travel, aiding their daily activities. When it comes to public transportation that meets commuters' accessibility requirements, they select options that also keep them safe and secure. It has been discovered that an assortment of people present not only to commuters but also in the setting of modern technology can have significant effects on commuter measurements of their ability to travel and physical activity themselves, particularly if they are first-time individuals and first-time commuters as well as travelers, these characteristics can be found in each of the commuters and the setting of this mobile application.The efficacy or effectiveness of commuters' guide application is the main focus of this research. The application aspires to assist users, such as first-time commuters, in improving their capacity to practice their abilities. Student commuters face challenges and need solutions to make their daily rides less stressful and more comfortable, such as public transportation, more economical choices, and promotion of environmentally friendly transportation. It focuses on the effectiveness of the commuters' guide application which is essential for all commuters and first-timers. The application's performance is mainly measured by the reliability and constant observations on commuters' performance in travelling, particularly in daily life in a time of modern technologies.
  
 1.1 Objective of the Mobile Application
+
 ● Our goal is to create a mobile application that will make the journey of commuters and individuals pleasant everyday. This application mainly intends to replace or shift everyday activities and commuting methods, and also to analyze the effectiveness of having a quick and simple commuters guide application. This also gazes at how we can make students' and different individuals' lifestyles more convenient and enhance throughout the day. The application was designed to assist commuters travel walking distance as well as complicated areas and provide the system with a sense of security.
 -
 1.2 Scope and Limitation of the Mobile Application
+
 ● This application can perform on both Android and Apple devices, specifically the version of Android 13 which phones that have this version contain updated and have the best interface and user-friendly experience because of their battery life which most users and different individuals continue searching for this type of phone who stays the battery and lasts all through the day, and for the Apple of IOS devices the most compatible version that we can use to perform the application This application's audience includes first-time commuters, commuters, students, and others. The application mainly seeks to travel while providing the correct path to assist you in going to tough locations.
 
 1.3 Significance of the Study
+
 ● Technology has the potential to maximise commuting expenses and improve the overall user experience. However, due to network problems or high demand, transportation services may be limited. This app helps users navigate public transportation by providing real-time information on times for arrival, trip directions, and alternative modes of transportation. It is especially helpful for people who are unfamiliar with local transportation, as it provides effective ways and modes of transportation that save time and money. Users may customize their preferred way of transportation, allowing them to select less stressful ways of transportation like taking a walk.
 
 1.4 Requirements Gathering
+
 ● IDE: Visual Studio - Visual Studio is a strong IDE for mobile app development that includes features such as development on multiple platforms, code sharing, and easy debugging. Developers may create code once and release it across different platforms, saving time and effort.
+
 ● Designing Tool: Canva: Canva is a popular graphic design website providing tools for creating visually attractive designs and collaborating with others. It is accessible for mobile app design, having free and premium versions that include extra features.
+
 ● Database, Android Device for testing (Android version) : MIT APP Inventor - MIT App Inventor is an easy-to-use tool that allows developers to create mobile apps without any previous knowledge of programming. It provides an actual development setting, allowing new programmers to easily test and troubleshoot their projects. Multi-platform development is also supported, allowing developers to create code once and drop off it throughout different platforms. It also offers cloud-based storage for convenient collaboration.
 
 1.5 Visual Table of Contents Diagram
@@ -118,10 +121,15 @@ Name of Module(Features)
 
 
 1.6 Definition of terms
+
 ● Android - A mobile operating system designed for touchscreen devices such as smartphones and tablets that makes use of a modified version of the Linux kernel and open-source applications.
+
 ● IDE - An integrated development environment is a software application that provides complete software development tools, such as a source-code editor.
+
 ● IOS - IOS is Apple Inc.'s proprietary mobile operating system that runs on a variety of Apple devices, including the iPhone.
+
 ● Mobile Application - Provides a specific activity or collection of activities.
+
 ● Public Transportation - A government-sponsored system of trains, buses, and further transportation
  
  CHAPTER II
@@ -172,6 +180,7 @@ Mockups
 
 CHAPTER III
 DEVELOPMENT
+
 In this chapter, the development of the application is being tracked. The mobile architecture is elaborated, and further diagrams along with discussions on important source codes are presented.
  
 3.1 Mobile Architecture         
