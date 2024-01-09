@@ -14,7 +14,8 @@ aiding in walking distance and difficult regions, and delivering a sense of secu
 - Has a real-time location tracker for faster navigation.
 4. User Roles: The existence of different people in modern technology settings has profound effects on commuters' ability to travel and exercise, particularly for first-time individuals and travelers, as reflected in the mobile application settings.
 5. Technical Requirements: This app works with Android and Apple devices, specifically Android 13 and Apple IOS devices. It is designed for first-time commuters, students, and others, with a user-friendly interface and a long battery life. For difficult locations, the app provides precise paths.
-6. Wireframes:![image](https://github.com/POrcine29/ROUTE-WANDERS-Group3-/assets/156062366/246fe795-41bc-4ade-8a5c-46fb0569f6c7)
+6. Wireframes:
+  ![image](https://github.com/POrcine29/ROUTE-WANDERS-Group3-/assets/156062366/246fe795-41bc-4ade-8a5c-46fb0569f6c7)
 
 7. Interactions: Commuter App on Mobile
 - Makes use of a search button for user convenience.
