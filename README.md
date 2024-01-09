@@ -95,15 +95,20 @@ Chapter I. PLANNING STAGE
 
 1.6 Definition of Terms……………………………………………………….
  
+
 Chapter II. UI / UX DESIGN
+
 
 2.0 Information Architecture……………………………………………..
 
+
 2.1 Wireframes…………………………………………………………………..
              
-              2.2 Prototyping………………………………………………………………….
+             
+             2.2 Prototyping………………………………………………………………….
             
-              2.3 Mockups………………………………………………………………………
+           
+             2.3 Mockups………………………………………………………………………
  
 
 Chapter III. DEVELOPMENT
