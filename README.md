@@ -6,8 +6,10 @@ An Android Mobile Application Project presented to the Faculty of Information Te
 The National Teachers College 629 J. Nepomuceno St., Quiapo, Manila
  
  
+
 By
  
+
 
 CABRERA, MICHAELA ARIANE
 
@@ -31,6 +33,7 @@ TANAN, GRACIELA WINNETTE R.
  
  
  
+
 In Partial Fulfillment of the Requirements for the subject
 Mobile Development focusing on Android Development
  
@@ -41,6 +44,8 @@ APPROVAL SHEET
 
 This Android mobile application entitled “ROUTE WANDERS” were prepared and submitted by:
  
+
+
 CABRERA, MICHAELA ARIANE
 
 ERISPE, JONARTH L.
@@ -71,23 +76,37 @@ TABLE OF CONTENTS
  
 Chapter I. PLANNING STAGE
 1.0 Introduction………………………………………………………………….
+
 1.1 Objective of the Study…………………………………………………….
+
 1.2 Scope and Limitation of the Study………………………………......
+
 1.3 Significance of the Study………………………………………………….
+
 1.4 Requirements Gathering………………………………………………..
+
 1.5 Visual Table of Contents Diagram………………………………….
+
 1.6 Definition of Terms……………………………………………………….
  
 Chapter II. UI / UX DESIGN
+
 2.0 Information Architecture……………………………………………..
+
 2.1 Wireframes…………………………………………………………………..
-              2.2 Prototyping………………………………………………………………….
-              2.3 Mockups………………………………………………………………………
+             
+              2.2 Prototyping………………………………………………………………….
+            
+              2.3 Mockups………………………………………………………………………
  
 Chapter III. DEVELOPMENT
+
 3.1 Mobile Architecture……………………………………………………….
+
 3.2 Project Development……………………………………………………...
+
 3.3 Project Builds………………….……………………………………………..
+
 3.4 Pre-Testing Process…………………………………………………………
  
  
