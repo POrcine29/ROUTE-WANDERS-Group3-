@@ -65,13 +65,16 @@ SANTIAGO, NIÑA RAFAELA M.
 TANAN, GRACIELA WINNETTE R.
  
  
+
 has been approved by the subject adviser as partial fulfillment of the requirements for the subject MOBILE DEVELOPMENT FOCUSING ON ANDROID DEVELOPMENT.
  
  
  
+
 PROF. JOHN PAULO I. PERMINOLA
 Subject Adviser
  
+
 TABLE OF CONTENTS
  
 Chapter I. PLANNING STAGE
@@ -115,6 +118,7 @@ Chapter III. DEVELOPMENT
  
  
 CHAPTER I
+
 THE PROBLEM AND ITS BACKGROUND
 Introduction
 
