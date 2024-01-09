@@ -19,7 +19,6 @@ ORCINE, POLIANA J.
 
 SAEZ, ARA JEAN A.
 
-
 SALINAS, JULIANNE A.
 
 SANTIAGO, NIÑA RAFAELA M.
@@ -30,14 +29,14 @@ TANAN, GRACIELA WINNETTE R.
  
  
  
-In Partial Fulfillment of the
-Requirements for the subject
+In Partial Fulfillment of the Requirements for the subject
 Mobile Development focusing on Android Development
  
  
 2024
 APPROVAL SHEET
  
+
 This Android mobile application entitled “ROUTE WANDERS” were prepared and submitted by:
  
 CABRERA, MICHAELA ARIANE
